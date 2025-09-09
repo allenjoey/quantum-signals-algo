@@ -103,6 +103,8 @@ Independent configuration for buy and sell signals:
 This project welcomes collaboration from the trading community! Whether you're a developer, trader, or quantitative analyst, your contributions can help improve this strategy.
 
 ### Ways to Contribute
+- **Fork the repository**: Create feature branch
+- **Make your changes**: Submit pull request
 - **Code Improvements**: Optimize algorithms, add new features
 - **Strategy Enhancement**: Suggest new indicators or filters  
 - **Bug Fixes**: Report and fix issues

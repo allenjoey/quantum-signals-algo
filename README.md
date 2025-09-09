@@ -136,3 +136,6 @@ Special thanks to **Claude AI** for assistance in code optimization, ATR integra
 **Happy Trading!** 📊✨
 
 *For questions, suggestions, or collaboration opportunities, please open an issue or submit a pull request.*
+
+## MIT License
+[MIT](https://choosealicense.com/licenses/mit/)
